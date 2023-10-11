@@ -20,4 +20,4 @@ def get_stock(symbol):
         return "Stock not found", 404
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
