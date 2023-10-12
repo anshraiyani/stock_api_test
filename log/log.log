@@ -1,45 +1,5 @@
-2023-10-11 22:48:22,278 - INFO - scheduling scraping for every 5 seconds
-2023-10-11 22:48:28,533 - INFO - Scraping HTML
-2023-10-11 22:48:29,118 - INFO - Writing data to file
-2023-10-11 22:48:35,501 - INFO - Scraping HTML
-2023-10-11 22:48:36,081 - INFO - Writing data to file
-2023-10-11 22:48:42,336 - INFO - Scraping HTML
-2023-10-11 22:48:42,929 - INFO - Writing data to file
-2023-10-11 22:48:54,223 - INFO - Scraping HTML
-2023-10-11 22:48:54,843 - INFO - Writing data to file
-2023-10-11 22:49:01,052 - INFO - Scraping HTML
-2023-10-11 22:49:01,641 - INFO - Writing data to file
-2023-10-11 22:49:08,160 - INFO - Scraping HTML
-2023-10-11 22:49:08,749 - INFO - Writing data to file
-2023-10-11 22:49:15,146 - INFO - Scraping HTML
-2023-10-11 22:49:15,735 - INFO - Writing data to file
-2023-10-11 22:49:21,803 - INFO - Scraping HTML
-2023-10-11 22:49:22,393 - INFO - Writing data to file
-2023-10-11 22:49:28,663 - INFO - Scraping HTML
-2023-10-11 22:49:29,245 - INFO - Writing data to file
-2023-10-11 22:49:35,423 - INFO - Scraping HTML
-2023-10-11 22:49:36,009 - INFO - Writing data to file
-2023-10-11 22:49:43,264 - INFO - Scraping HTML
-2023-10-11 22:49:43,843 - INFO - Writing data to file
-2023-10-11 22:49:50,001 - INFO - Scraping HTML
-2023-10-11 22:49:50,588 - INFO - Writing data to file
-2023-10-11 22:49:56,824 - INFO - Scraping HTML
-2023-10-11 22:49:57,459 - INFO - Writing data to file
-2023-10-11 22:50:03,533 - INFO - Scraping HTML
-2023-10-11 22:50:04,113 - INFO - Writing data to file
-2023-10-11 22:50:10,427 - INFO - Scraping HTML
-2023-10-11 22:50:11,006 - INFO - Writing data to file
-2023-10-11 22:50:17,332 - INFO - Scraping HTML
-2023-10-11 22:50:17,916 - INFO - Writing data to file
-2023-10-11 22:50:24,617 - INFO - Scraping HTML
-2023-10-11 22:50:25,212 - INFO - Writing data to file
-2023-10-11 22:50:31,377 - INFO - Scraping HTML
-2023-10-11 22:50:31,961 - INFO - Writing data to file
-2023-10-11 22:50:38,373 - INFO - Scraping HTML
-2023-10-11 22:50:38,958 - INFO - Writing data to file
-2023-10-11 22:50:45,590 - INFO - Scraping HTML
-2023-10-11 22:50:46,195 - INFO - Writing data to file
-2023-10-11 22:50:53,435 - INFO - Scraping HTML
-2023-10-11 22:50:54,077 - INFO - Writing data to file
-2023-10-11 22:51:00,510 - INFO - Scraping HTML
-2023-10-11 22:51:01,112 - INFO - Writing data to file
+2023-10-12 14:28:10,237 - INFO - scheduling scraping for every 5 seconds
+2023-10-12 14:28:22,373 - INFO - Scraping HTML
+2023-10-12 14:28:22,546 - INFO - Writing data to file
+2023-10-12 14:28:53,001 - INFO - Scraping HTML
+2023-10-12 14:28:53,134 - INFO - Writing data to file

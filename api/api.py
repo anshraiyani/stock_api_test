@@ -2,6 +2,12 @@ from flask import Flask, jsonify, request
 import json
 import csv
 import os
+from flask import Flask, request, jsonify
+from pymongo import MongoClient
+
+client = MongoClient("mongodb+srv://admin:admin@cluster0.l1slcdl.mongodb.net/")
+db = client["stock-data"]
+collection = db["data"]
 
 app = Flask(__name__)
 
