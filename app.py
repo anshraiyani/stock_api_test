@@ -62,5 +62,5 @@ def stock(name):
         if stocks is not None:
             return jsonify(stocks)
 
-if __name__=="__main__":
-    app.run()
+# if __name__=="__main__":
+#     app.run()
