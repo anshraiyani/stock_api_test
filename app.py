@@ -63,4 +63,4 @@ def stock(name):
             return jsonify(stocks)
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run()
